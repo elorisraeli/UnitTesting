@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitTesting</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_me">Change Me :)</string>
+    <string name="click_to_change">click to change</string>
+    <string name="write_here">Write Here</string>
+</resources>
